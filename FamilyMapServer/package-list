@@ -1,0 +1,6 @@
+com.example.jonathan.familymapserver
+server.DataAccessObjs
+server.Service
+shared.Model
+shared.Requests
+shared.Results

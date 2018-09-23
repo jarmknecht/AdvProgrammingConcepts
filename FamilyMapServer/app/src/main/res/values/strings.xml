@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Family Map</string>
+
+    <!-- Deals with login/register -->
+    <string name="server_host">Server Host:</string>
+    <string name="server_port">Server Port:</string>
+    <string name="username">User Name:</string>
+    <string name="password">Password:</string>
+    <string name="first_name">First Name:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="email">Email:</string>
+    <string name="gender">Gender:</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+
+    <string name="loginbutton">SIGN IN</string>
+    <string name="registerbutton">REGISTER</string>
+
+    <string name="firstNameTitle">First Name</string>
+    <string name="lastNameTitle">Last Name</string>
+    <string name="genderTitle">Gender</string>
+    <string name="androidImage">{fa-android}</string>
+    <string name="clickMarker">Click on a marker</string>
+    <string name="seeEventDetails">to see event details</string>
+    <string name="search">Search</string>
+    <string name="filter">Filter</string>
+    <string name="settings">Settings</string>
+    <string name="gotoTop">Go To Top</string>
+    <!-- Deals with settings -->
+    <string name="lifeStoryLines">Life Story Lines</string>
+    <string name="lifeStoryLinesSubTitle">SHOW LIFE STORY LINES</string>
+    <string name="familyTreeLines">Family Tree Lines</string>
+    <string name="familyTreeLinesSubTitle">SHOW TREE LINES</string>
+    <string name="spouseLines">Spouse Lines</string>
+    <string name="spouseLinesSubTitle">SHOW SPOUSE LINES</string>
+    <string name="mapType">Map Type</string>
+    <string name="mapTypeSubTitle">BACKGROUND DISPLAY ON MAP</string>
+    <string name="resyncData">Re-sync Data</string>
+    <string name="resyncDataSubTitle">FROM FAMILYMAP SERVICE</string>
+    <string name="logout">Logout</string>
+    <string name="logoutSubTitle">RETURNS TO LOGIN SCREEN</string>
+
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_settings">Family Map: Settings</string>
+    <string name="title_activity_search">Family Map: Search</string>
+    <string name="title_activity_filter">Family Map: Filter</string>
+    <string name="title_activity_person">Family Map: Person Details</string>
+
+</resources>
